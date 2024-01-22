@@ -1,17 +1,16 @@
 <div align="center">
-
-# Yu-Gi-Oh | Jo-ken-po Edition
+Potência Tech iFood - Desenvolvimento de Jogos | Yu-Gi-Oh | Jo-ken-po Edition
 </div>
 
 <br><br>
 
 <div align="center">
-    <img src="./src/assets\imgs\dio-logo.png" width="200" height="100" hspace="25">
-    <img src="./src/assets\imgs\ifood-logo.png" width="200" height="100" hspace="25">
+    <img src="./src/assets/imgs/dio-logo.png" width="200" height="100" hspace="25">
+    <img src="./src/assets/imgs/ifood-logo.png" width="200" height="100" hspace="25">
 </div>
 <br><br>
 
-<div align="center"><img src="assets\imgs\bootcamp-logo.png" width="" height="300" hspace="">
+<div align="center"><img src="./src/assets/imgs/bootcamp-logo.png" width="" height="300" hspace="">
 </div>
 <br><br>
 </div>     
@@ -26,7 +25,7 @@
 <br><br>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/IN%C3%8DCIO-22%2F01%2F2024-green" hspace="5"/>
+    <img src="https://img.shields.io/badge/IN%C3%8DCIO-22%2F01%2F2024-blue" hspace="5"/>
     <img src="https://img.shields.io/badge/T%C3%89RMINO-22%2F01%2F2024-red" hspace="5"/>
 </div>
 <br>
