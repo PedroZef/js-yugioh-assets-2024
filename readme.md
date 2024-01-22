@@ -6,8 +6,8 @@
 <br><br>
 
 <div align="center">
-    <img src="assets\imgs\dio-logo.png" width="200" height="100" hspace="25">
-    <img src="assets\imgs\ifood-logo.png" width="200" height="100" hspace="25">
+    <img src="./src/assets\imgs\dio-logo.png" width="200" height="100" hspace="25">
+    <img src="./src/assets\imgs\ifood-logo.png" width="200" height="100" hspace="25">
 </div>
 <br><br>
 
